@@ -7,7 +7,7 @@ baseURL = 'http://d4d0o.github.io/latannerie/'
 # if set to false, a site served from a subdirectory will generate wrong links
 # inside of the above mentioned files; if you serve the page from the servers root
 # you are free to set the value to false as recommended by the official Hugo documentation
-canonifyURLs = true # true -> all relative URLs would instead be canonicalized using baseURL
+canonifyURLs = false # true -> all relative URLs would instead be canonicalized using baseURL
 # required value to serve this page from a webserver AND the file system;
 # if you don't want to serve your page from the file system, you can also set this value
 # to false
