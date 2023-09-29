@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://d4d0o.github.io/latannerie/en/vrc/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://d4d0o.github.io/latannerie/vrc/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://d4d0o.github.io/latannerie/vrc/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://d4d0o.github.io/latannerie/en/vrc/index.html" />
+  </url>
+  <url>
+    <loc>http://d4d0o.github.io/latannerie/en/categories/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://d4d0o.github.io/latannerie/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://d4d0o.github.io/latannerie/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://d4d0o.github.io/latannerie/en/categories/index.html" />
+  </url>
+  <url>
+    <loc>http://d4d0o.github.io/latannerie/en/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://d4d0o.github.io/latannerie/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://d4d0o.github.io/latannerie/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://d4d0o.github.io/latannerie/en/index.html" />
+  </url>
+  <url>
+    <loc>http://d4d0o.github.io/latannerie/en/tags/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://d4d0o.github.io/latannerie/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://d4d0o.github.io/latannerie/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://d4d0o.github.io/latannerie/en/tags/index.html" />
+  </url>
+</urlset>
