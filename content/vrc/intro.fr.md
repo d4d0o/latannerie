@@ -8,6 +8,6 @@ La présence de forte condensation sur les fenêtres durant tout l'hiver, ou bie
 
 Ce document vise à rassembler des informations pour aider à la compréhension et la bonne utilisation de ces appareils, votre quiétude, votre santé et l'intégrité de votre habitation.
 
-![Aeromatic 7240 / Aldes](images/aeromatic_7240.png)
+![Aeromatic 7240 / Aldes](../images/aeromatic_7240.png)
 
 *mise à jour de la documentation: 2023/09/10*

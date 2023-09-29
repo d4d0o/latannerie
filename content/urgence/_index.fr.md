@@ -4,4 +4,4 @@ title = "Urgence"
 weight = 2 
 +++
 
-Que sont les uregences ? Quoi faire ?
+Que sont les urgences ? Quoi faire ?
