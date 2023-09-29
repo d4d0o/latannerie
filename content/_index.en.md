@@ -5,7 +5,7 @@ title = "La Tannerie"
 
 [★ Update 2023-09-28: HRV Guide creation ★]({{%relref "VRC/intro" %}})
 
-![La Tannerie Montreal Sud-Ouest](latannerie.jpg?classes=shadow&lightbox=false)
+![La Tannerie Montreal Sud-Ouest](latannerie.jpg?classes=shadow)
 
 ## Motivation
 
