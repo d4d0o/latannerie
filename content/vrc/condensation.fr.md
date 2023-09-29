@@ -17,7 +17,7 @@ Le moment idéal pour faire cette vérification est lors d’une opération de n
 + Avant de remonter le noyau dans la VRC, pendant que votre environnement est encore dégagé et que la VRC est encore ouverte continuez à l’étape suivante :
 	+ Tournez complètement le bouton du boitier dans le sens des aiguilles d'une montre (consigne à 0%, ON, activation forcée permanente)  
 
-![VRC fonctionnelle et active](./images/activation_forcee_small.png)
+![VRC fonctionnelle et active](images/activation_forcee_small.png)
 
 + ***⚠ C’est à partir de ce moment qu’il faut faire attention à ne pas mettre ses doigts dans les ventilateurs. Assurez-vous que personne d’autre n’est présent et ne risque de toucher l’intérieur de la VRC. Assurez-vous aussi que vous ne serez pas dérangé ni déstabilisé.***:
 
@@ -27,7 +27,7 @@ Le moment idéal pour faire cette vérification est lors d’une opération de n
 	
 	+ Vous devez observez la mise en rotation des 2 ventilateurs ainsi que l’ouverture de la trappe d’accès à l’aire extérieur, conformément à la photo suivante
 
-![VRC fonctionnelle et active](./images/VRC_active.png)
+![VRC fonctionnelle et active](images/VRC_active.png)
 
 
 + Relâchez le bouton puis débranchez l’alimentation de la prise murale avant de terminer les opérations de nettoyage et de remontage du noyau.
@@ -55,7 +55,7 @@ Dans le cas de nos unités, les câbles électriques sont tels qu'il est possibl
 
 
 ##### *Extrait du manuel d’installation*
-![Emplacement commande](./images/emplacement_commande.png)
+![Emplacement commande](images/emplacement_commande.png)
 
 
 
@@ -76,6 +76,6 @@ Si vous voulez le changer les diamètres du tube sont :
 Intérieur ⅜” ID  
 Extérieur ½” OD
 
-![Tuyau drain](./images/tuyau_drain.png)
+![Tuyau drain](images/tuyau_drain.png)
 
 *Éventuellement il est possible d’ajuster les fixations pour augmenter légèrement l’inclinaison de la machine afin de faciliter l’écoulement de la condensation vers la sortie du drain.*

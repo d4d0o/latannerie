@@ -3,7 +3,7 @@ title = "Annexes"
 weight = 9
 +++
 ### Fiche technique
-![Fiche technique](./images/fiche_technique.png)
+![Fiche technique](images/fiche_technique.png)
 ___
 
 ### Fournisseurs
@@ -26,7 +26,7 @@ Le boîtier de contrôle qui est installé dans nos unités :
 ___
 
 ### Manuel original
-[Manuel Aeromatic/Aldes](./ressources/manuel_aeromatic.pdf)
+[Manuel Aeromatic/Aldes](ressources/manuel_aeromatic.pdf)
 ___
 
 ### Ressources diverses

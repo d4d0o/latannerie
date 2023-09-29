@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "Emergency"
-weight = 1 
+weight = 2 
 +++
 
 What are emergencies? What to do?
